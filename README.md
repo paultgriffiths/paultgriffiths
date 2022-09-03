@@ -5,7 +5,7 @@ I'm a [National Centre for Atmospheric Science](https://www.ncas.ac.uk) Research
 - 🔭 I’m currently working writing up recent work on the [radiative impact of replacing greenhouse gases](https://paultgriffiths.github.io/talks/2021-03-10) such as methane with H2 as a fuel source, just published by BEIS [here](https://www.gov.uk/government/publications/atmospheric-implications-of-increased-hydrogen-use).
 - 🌱 I’m currently learning 
   - about the Julia language 
-  - new ML techniques  by participating in a year-long [Accelerate Residency]((https://www.cst.cam.ac.uk/news/schmidt-data-science-residency-programme).
+  - new ML techniques  by participating in a year-long [Accelerate Residency](https://www.cst.cam.ac.uk/news/schmidt-data-science-residency-programme).
   - [ESMValTool](https://esmvaltool.org).  Ask me about the next UKCA ESMValTool training on model evaluation to follow on from the first at the Met Office.
 - 👯 I’m looking to collaborate 
   - using the [CMIP6 data archive](https://esgf-node.llnl.gov/projects/cmip6/) and its capability for data-driven science.
