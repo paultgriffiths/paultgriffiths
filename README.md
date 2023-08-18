@@ -3,7 +3,7 @@
 I'm a [National Centre for Atmospheric Science](https://www.ncas.ac.uk) Research Scientist / Cambridge SRA working with [UKESM1](https://ukesm.ac.uk) and developing [UKCA](https://www.ukca.ac.uk)
 
 - 🔭 I’m working on the [radiative impact of replacing greenhouse gases](https://paultgriffiths.github.io/talks/2021-03-10) such as methane with H2 as a fuel source, now funded via [UKRI](https://gtr.ukri.org/projects?ref=NE%2FX010236%2F1).\
-- New capability for atmospheric chemistry modelling, focusing on improving our treatment of VOC oxidation and air pollution, funded via [UKRI](https://gtr.ukri.org/projects?ref=NE%2FX000516%2F1).
+- 🌳 Developing capability for atmospheric chemistry modelling, focusing on improving our treatment of VOC oxidation and air pollution, funded via [UKRI](https://gtr.ukri.org/projects?ref=NE%2FX000516%2F1) collaborating with University of Nottingham, and building on the [work](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020MS002420) of James Weber and Scott Archer-Nicholls.
 - 🥳 I'm excited to be a co-I of the Schmidt Futures Virtual Earth System Research Institute [VESRI](https://www.schmidtfutures.com/our-work/virtual-earth-system-research-institute-vesri/) [FETCH4](https://fetch4.github.io) project focusing on the role of methane in the Earth system.  This project is led by [Alex Turner](https://github.com/alexjturner) (UW), [Lee Murray](https://github.com/ltmurray) and Vasily Vlasenko.
 
 - 🌱 I’m currently learning 
