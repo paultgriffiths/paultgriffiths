@@ -16,7 +16,7 @@ I'm a [National Centre for Atmospheric Science](https://www.ncas.ac.uk) Research
   - whole-atmosphere box-models for [methane emissions](https://doi.org/10.1029/2019RG000675) reductions and [other questions](https://ncas.ac.uk/scientists-develop-new-method-to-assess-ozone-layer-recovery/)
 - 🥳 I recently joined the Software Carpentry Instructors, having completed their excellent training - [apply here!](https://carpentries.org/become-instructor/)
 - 💬 Ask me about setting up projects using the [Centre for Open Science](https://www.cos.io/products/osf) framework, working with [Cambridge University Data Champions](https://www.data.cam.ac.uk/intro-data-champions)
-- 📫 How to reach me: fediscience.org/@paultgriffiths
+- 📫 How to reach me: [fediscience.org/@paultgriffiths](fediscience.org/@paultgriffiths)
 - 😄 Pronouns: he/him
 
 <!--
