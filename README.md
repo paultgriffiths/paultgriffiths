@@ -18,7 +18,7 @@ I'm a [National Centre for Atmospheric Science](https://www.ncas.ac.uk) Research
 - 🌱 I’m currently  
   - learning about the Julia language 
   - building my experience in  ML techniques.  I took part in a year-long [Accelerate Residency](https://www.cst.cam.ac.uk/news/schmidt-data-science-residency-programme).
-  - heling with the work of [ESMValTool](https://esmvaltool.org).  We [meet](https://github.com/ESMValGroup/Community/discussions/categories/meetings) once a month
+  - helping with the work of [ESMValTool](https://esmvaltool.org).  We [meet](https://github.com/ESMValGroup/Community/discussions/categories/meetings) once a month
 - 🥳 I qualified as a Software Carpentry Instructor - you can do so too! [apply here!](https://carpentries.org/become-instructor/)
 - 💬 Ask me about setting up projects using the [Centre for Open Science](https://www.cos.io/products/osf) framework, working with [Cambridge University Data Champions](https://www.data.cam.ac.uk/intro-data-champions)
 - 📫 How to reach me: [fediscience.org/@paultgriffiths](https://fediscience.org/@paultgriffiths)
