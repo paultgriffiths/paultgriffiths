@@ -15,7 +15,7 @@ I'm a [National Centre for Atmospheric Science](https://www.ncas.ac.uk) Research
 
 #### about me 
 
-- 🌱 I’m currently  
+🌱 I’m currently  
   - learning about the Julia language 
   - building my experience in  ML techniques.  I took part in a year-long [Accelerate Residency](https://www.cst.cam.ac.uk/news/schmidt-data-science-residency-programme).
   - helping with the work of [ESMValTool](https://esmvaltool.org).  We [meet](https://github.com/ESMValGroup/Community/discussions/categories/meetings) once a month
