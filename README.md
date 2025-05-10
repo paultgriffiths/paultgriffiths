@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a new lecturer at the [University of Bristol](https://www.bristol.ac.uk/chemistry/), aligned with the [Atmospheric Chemistry Research Group](https://www.bristol.ac.uk/chemistry/research/acrg/) working with [UKESM1](https://ukesm.ac.uk) and developing [UKCA](https://www.ukca.ac.uk)
+I'm a lecturer at the [University of Bristol](https://www.bristol.ac.uk/chemistry/), aligned with the [Atmospheric Chemistry Research Group](https://www.bristol.ac.uk/chemistry/research/acrg/) working with [UKESM1](https://ukesm.ac.uk) and developing [UKCA](https://www.ukca.ac.uk)
 
 #### News 
 - ✍️ [Seb](https://github.com/shmh40) and I led a [community review](https://egusphere.copernicus.org/preprints/2025/egusphere-2024-3739/) of ML/AI in tropospheric ozone research for phase 2 of [IGAC TOAR](https://igacproject.org/activities/TOAR/TOAR-II)[ML4O3](https://igacproject.org/ml4o3-focus-working-group) - check out the [website](https://github.com/ML4O3/)
