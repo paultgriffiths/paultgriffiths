@@ -1,4 +1,4 @@
-### Hi there 👋
+  ### Hi there 👋
 
 I'm a lecturer at the [University of Bristol](https://www.bristol.ac.uk/chemistry/), aligned with the [Atmospheric Chemistry Research Group](https://www.bristol.ac.uk/chemistry/research/acrg/) working with [UKESM1](https://ukesm.ac.uk) and developing [UKCA](https://www.ukca.ac.uk). My pronouns are he/him.
 
@@ -22,7 +22,7 @@ My research aims to use models to study atmospheric chemistry. I'm interested in
 And recently
 
 - 🥳 qualified as a Software Carpentry Instructor - you can do so too! [apply here!](https://carpentries.org/become-instructor/)
-- 📫 joined blueksy: [bsky.app/@paultgriffiths.github.io](https://bsky.app/@paultgriffiths.github.io)(https://bsky.app/profile/paultgriffiths.github.io)
+- 📫 joined blueksy: [profile here[(https://bsky.app/@paultgriffiths.github.io)
 
   
 #### I’m open to collaborations!
