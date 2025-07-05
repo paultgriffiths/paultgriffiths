@@ -22,7 +22,7 @@ My research aims to use models to study atmospheric chemistry. I'm interested in
 And recently
 
 - 🥳 qualified as a Software Carpentry Instructor - you can do so too! [apply here!](https://carpentries.org/become-instructor/)
-- 📫 joined blueksy: [profile here[(https://bsky.app/@paultgriffiths.github.io)
+- 📫 joined blueksy: [profile here](https://bsky.app/@paultgriffiths.github.io)
 
   
 #### I’m open to collaborations!
