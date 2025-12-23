@@ -3,13 +3,16 @@
 I'm a lecturer at the [University of Bristol](https://www.bristol.ac.uk/chemistry/), aligned with the [Atmospheric Chemistry Research Group](https://www.bristol.ac.uk/chemistry/research/acrg/) working with [UKESM1](https://ukesm.ac.uk) and developing [UKCA](https://www.ukca.ac.uk). My pronouns are he/him.
 
 #### working on 
-- ✍️ [Seb](https://github.com/shmh40) and I led a [community review](https://egusphere.copernicus.org/preprints/2025/egusphere-2024-3739/) of ML/AI in tropospheric ozone research for phase 2 of [IGAC TOAR](https://igacproject.org/activities/TOAR/TOAR-II)[ML4O3](https://igacproject.org/ml4o3-focus-working-group) - check out the [website](https://github.com/ML4O3/)
+
 
 - 🥳 I'm excited to be a co-I of the Schmidt Futures Virtual Earth System Research Institute [VESRI](https://www.schmidtfutures.com/our-work/virtual-earth-system-research-institute-vesri/) [FETCH4](https://fetch4.github.io) project focusing on the role of methane in the Earth system.  This project is led by [Alex Turner](https://github.com/alexjturner) (UW), [Lee Murray](https://github.com/ltmurray) and Vasily Vlasenko.
   
 - 👨🏻‍💻 I remain involved with the [TerraFIRMA project](https://terrafirma.ac.uk/) NERC National Capability Multi-Centre Science programme, and WP2, focusing on the role of methane emissions in future climate.
 
 - ‍✈️ Work started on the 'Reducing aviation Emissions' uncertain climate impacts: NOx' project. We are looking at the climate impact.
+
+#### 🚨 news
+✍️ Just published Our [community review](https://github.com/ML4O3/Applications-of-Machine-Learning-and-Artificial-Intelligence-in-Tropospheric-Ozone-Research/tree/main), led by [Seb](https://github.com/shmh40), of ML/AI in tropospheric ozone research for phase 2 of [IGAC TOAR](https://igacproject.org/activities/TOAR/TOAR-II)[ML4O3](https://igacproject.org/ml4o3-focus-working-group) is now published. - check out the [website](https://github.com/ML4O3/)
 
 #### about me 
 
