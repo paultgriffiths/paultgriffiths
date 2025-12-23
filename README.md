@@ -12,7 +12,8 @@ I'm a lecturer at the [University of Bristol](https://www.bristol.ac.uk/chemistr
 - ‍✈️ Work started on the 'Reducing aviation Emissions' uncertain climate impacts: NOx' project. We are looking at the climate impact.
 
 #### 🚨 news
-✍️ Just published Our [community review](https://github.com/ML4O3/Applications-of-Machine-Learning-and-Artificial-Intelligence-in-Tropospheric-Ozone-Research/tree/main), led by [Seb](https://github.com/shmh40), of ML/AI in tropospheric ozone research for phase 2 of [IGAC TOAR](https://igacproject.org/activities/TOAR/TOAR-II)[ML4O3](https://igacproject.org/ml4o3-focus-working-group) is now published. - check out the [website](https://github.com/ML4O3/)
+
+- ✍️ Just published Our [community review](https://github.com/ML4O3/Applications-of-Machine-Learning-and-Artificial-Intelligence-in-Tropospheric-Ozone-Research/tree/main), led by [Seb](https://github.com/shmh40), of ML/AI in tropospheric ozone research for phase 2 of [IGAC TOAR](https://igacproject.org/activities/TOAR/TOAR-II)[ML4O3](https://igacproject.org/ml4o3-focus-working-group) is now published. - check out the [website](https://github.com/ML4O3/)
 
 #### about me 
 
