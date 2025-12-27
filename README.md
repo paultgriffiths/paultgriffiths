@@ -9,7 +9,7 @@ I'm a lecturer at the [University of Bristol](https://www.bristol.ac.uk/chemistr
   
 - 👨🏻‍💻 I remain involved with the [TerraFIRMA project](https://terrafirma.ac.uk/) NERC National Capability Multi-Centre Science programme, and WP2, focusing on the role of methane emissions in future climate.
 
-- ‍✈️ Work started on the 'Reducing aviation Emissions' uncertain climate impacts: NOx' project. We are looking at the climate impact.
+- ‍✈️ Work started on the ['Reducing aviation Emissions' uncertain climate impacts: NOx'](https://gtr.ukri.org/project/A06B3D30-61E7-42F7-9353-DBC9F1321B34) project. We are looking at the climate impact.
 
 #### news
 
@@ -20,10 +20,10 @@ I'm a lecturer at the [University of Bristol](https://www.bristol.ac.uk/chemistr
 My research aims to use models to study atmospheric chemistry. I'm interested in aerosol chemistry, ozone production, VOC oxidation and air pollution. 
 
 🌱 I’m currently  
-- learning about the Julia language, and building my experience in  ML.
-- I took part in a year-long [Accelerate Residency](https://www.cst.cam.ac.uk/news/schmidt-data-science-residency-programme).
+- learning about the Julia language, and building my experience in  ML. First stop - box models!!
+- working on a project about the [COP26 Global Methane Pledge](https://www.globalmethanepledge.org)
 
-And recently
+And I've
 
 - 🥳 qualified as a Software Carpentry Instructor - you can do so too! [apply here!](https://carpentries.org/become-instructor/)
 - 📫 joined blueksy: [profile here](https://bsky.app/profile/paultgriffiths.github.io)
