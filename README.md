@@ -23,7 +23,7 @@ Funded projects in the [group](https://github.com/grif-lab) use [GEOS-Chem](http
 
 #### I'm open to collaborations
 
-- 📦 Box models for atmospheric chemistry: [BOXMOX in the cloud](https://github.com/paultgriffiths/boxmox-in-the-cloud), [SADKAT](https://github.com/grif-lab/sadkat-acrg) for droplet drying, and the UKCA box.
+- 📦 Box models for atmospheric chemistry: [BOXMOX in the cloud](https://github.com/paultgriffiths/boxmox-in-the-cloud), [SADKAT](https://github.com/grif-lab/sadkat-acrg) for droplet drying, and the [UKCA box model](https://www.ukca.ac.uk/wiki/index.php/Box_model).
 - 📚 Data-driven science on the CMIP6/7 archives.
 - 🛠️ LLM tools for research practice. In this we are supported by our youngest group member: [wheres-the-tea-bot](https://github.com/grif-lab-Wheres-The-Tea).
 
